@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://github.com/rafathossain96/bracu-notice-crawler"><img src="https://i.ibb.co/BzpVMdZ/bracu-logo.png" alt="bracu-logo" width="200px" border="0"></a>
+    <a href="https://github.com/rafathossain96/bracu-notice-crawler"><img src="https://i.postimg.cc/s2NPMkGR/screenshot-shoutlab-asia-2019-01-09-21-40-45.png" alt="bracu-logo" width="200px" border="0"></a>
   <br>
   BRACU Notice Crawler
   <br>
