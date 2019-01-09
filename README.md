@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://github.com/rafathossain96/bracu-notice-crawler"><img src="https://i.postimg.cc/s2NPMkGR/screenshot-shoutlab-asia-2019-01-09-21-40-45.png" alt="bracu-logo" width="200px" border="0"></a>
+    <a href="https://github.com/rafathossain96/bracu-notice-crawler"><img src="https://i.ibb.co/BzpVMdZ/bracu-logo.png" alt="bracu-logo" width="200px" border="0"></a>
   <br>
   BRACU Notice Crawler
   <br>
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img src="https://i.ibb.co/twG3BGv/Screenshot-at-Jan-09-21-29-09.png" alt="demo" width="100%" border="0">
+    <img src="https://i.postimg.cc/s2NPMkGR/screenshot-shoutlab-asia-2019-01-09-21-40-45.png" alt="demo" width="100%" border="0">
 </p>
 
 ### Key Features
