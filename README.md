@@ -42,7 +42,7 @@ Notice URL: https://www.bracu.ac.bd/news-events/news-archive?field_news_departme
     <img src="http://www.phpzone.in/wp-content/uploads/2017/08/php-curl-request-665x251.png" alt="demo" width="60%" border="0">
 </p>
 
-This php and cUrl based crawler gets all the data from the URL and shows them in a table.
+This project uses php and cUrl based crawler gets all the data from the URL and shows them in a table.
 
 ### Contribution & License
 You can contribute in following ways:
