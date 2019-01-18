@@ -13,9 +13,6 @@
   <a href="https://github.com/rafathossain96/bracu-notice-crawler/blob/master/LICENSE">
       <img src="https://img.shields.io/github/license/rafathossain96/bracu-notice-crawler.svg">
   </a>
-  <a href="https://github.com/rafathossain96/bracu-notice-crawler">
-    <img src="https://img.shields.io/github/last-commit/google/skia.svg">
-  </a>
 </p>
 
 <p align="center">
